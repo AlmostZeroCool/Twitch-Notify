@@ -1,0 +1,28 @@
+# $game      - name of game
+# $viewers   - number of viewers watching the stream
+# $mature    - true or false indicating whether the channel is in mature mode
+# $status    - channel status
+# $language  - broadcaster language
+# $name      - broadcaster name
+# $url       - url to the stream
+# $followers - amount of followers the channel has
+
+# $color_default
+# $color_black
+# $color_red
+# $color_green
+# $color_yellow
+# $color_blue
+# $color_magenta
+# $color_cyan
+# $color_lgray
+# $color_dgray
+# $color_lred
+# $color_lgreen
+# $color_lyellow
+# $color_lblue
+# $color_lmagenta
+# $color_lcyan
+# $color_white
+
+[ $color_blue$name $color_white- $color_yellow$status $color_white- Playing $color_red$game $color_whitefor $color_red$viewers $color_whiteviewers ]
